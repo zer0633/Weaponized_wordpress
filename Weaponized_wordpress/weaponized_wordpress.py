@@ -24,8 +24,8 @@ and bruteforces the authors that are found with the rockyou wordlist to find val
  
 
 
-
-run the following before starting program --> "iconv -f ISO-8859-1 -t UTF-8 /usr/share/wordlists/rockyou.txt > rockyou_utf8.txt"
+This script requuires the rockyou.txt wordlist in utf8 format Please download the rockyou wordlist or copy it in the same directory as this program under
+the name rockyou_utf8.txt
 """
 
 print(Fore.CYAN+"""
